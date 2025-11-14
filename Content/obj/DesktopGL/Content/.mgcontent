@@ -4,14 +4,14 @@
   <Platform>DesktopGL</Platform>
   <Config />
   <SourceFiles>
-    <File>C:/Users/Malcon/Downloads/ELJUEGO/Content/background.png</File>
-    <File>C:/Users/Malcon/Downloads/ELJUEGO/Content/ball.png</File>
-    <File>C:/Users/Malcon/Downloads/ELJUEGO/Content/Player/player.png</File>
-    <File>C:/Users/Malcon/Downloads/ELJUEGO/Content/Player/walkDown.png</File>
-    <File>C:/Users/Malcon/Downloads/ELJUEGO/Content/Player/walkLeft.png</File>
-    <File>C:/Users/Malcon/Downloads/ELJUEGO/Content/Player/walkRight.png</File>
-    <File>C:/Users/Malcon/Downloads/ELJUEGO/Content/Player/walkUp.png</File>
-    <File>C:/Users/Malcon/Downloads/ELJUEGO/Content/skull.png</File>
+    <File>C:/Users/samue/Downloads/Proyecto Juego/Prog.-Sobre-Redes.-Juego/Content/background.png</File>
+    <File>C:/Users/samue/Downloads/Proyecto Juego/Prog.-Sobre-Redes.-Juego/Content/ball.png</File>
+    <File>C:/Users/samue/Downloads/Proyecto Juego/Prog.-Sobre-Redes.-Juego/Content/Player/player.png</File>
+    <File>C:/Users/samue/Downloads/Proyecto Juego/Prog.-Sobre-Redes.-Juego/Content/Player/walkDown.png</File>
+    <File>C:/Users/samue/Downloads/Proyecto Juego/Prog.-Sobre-Redes.-Juego/Content/Player/walkLeft.png</File>
+    <File>C:/Users/samue/Downloads/Proyecto Juego/Prog.-Sobre-Redes.-Juego/Content/Player/walkRight.png</File>
+    <File>C:/Users/samue/Downloads/Proyecto Juego/Prog.-Sobre-Redes.-Juego/Content/Player/walkUp.png</File>
+    <File>C:/Users/samue/Downloads/Proyecto Juego/Prog.-Sobre-Redes.-Juego/Content/skull.png</File>
   </SourceFiles>
   <DestFiles>
     <File xsi:nil="true" />
